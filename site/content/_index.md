@@ -1,7 +1,7 @@
 ---
 title: Open Data Pour Elles
 subtitle: Les données ouvertes au service de la femme Africaine
-image: /img/home-jumbotron.jpg
+image: img/about-reinvest-profits.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
